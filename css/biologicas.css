@@ -3,21 +3,6 @@
 	background-color: #2EB3A0;
 }
 
-.player-button.master-timer-controller.close-options {
-    border-color: #005eaf;
-    background-color: #0366b1;
-}
-
-.player-button.options {
-    border-color: #0267bd;
-    background-color: #167ac6;
-}
-
-.player-button.stop-button-round {
-    border-color: #0267bd;
-    background-color: #167ac6;
-}
-
 .button.filled:hover {
     background-color: #289C8C;
 }
