@@ -1,0 +1,119 @@
+.button.filled {
+	
+	background-color: #0B6998;
+}
+
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
+    background: #0B6998;
+}
+
+.player-button.master-timer-controller.close-options {
+    border-color: #005eaf;
+    background-color: #0366b1;
+}
+
+.player-button.options {
+    border-color: #0267bd;
+    background-color: #167ac6;
+}
+
+.player-button.stop-button-round {
+    border-color: #0267bd;
+    background-color: #167ac6;
+}
+
+.button.filled:hover {
+	
+	background-color: #095378;
+}
+
+.card-expander{
+    border: 1px solid #095378;
+    background-color: #0B6998;
+}
+
+.floating-card-span-c {
+	color: #0B6998;
+}
+
+.floating-card-span-d {
+    color: #0B6998;
+}
+
+.floating-card-span-a {
+    color: #0B6998;
+}
+
+.floating-card-span-e {
+    color: #0B6998;
+}
+
+.floating-card-span-b {
+    color: #0B6998;
+}
+
+.floating-card {
+	background-color: #0B6998;
+}
+
+
+.more-info-box {
+    
+    border: 1px solid #3996D2;
+    border-radius: 2px;
+    background-color: #0B6998;
+    color: #fff;
+}
+
+.side-cover {
+
+  background-image: -webkit-radial-gradient(circle farthest-corner at 0% 0%, rgba(11,105,152,0.9), rgba(14,59,79,0.9));
+  background-image: radial-gradient(circle farthest-corner at 0% 0%, rgba(11,105,152,0.9), rgba(14,59,79,0.9));
+}
+
+.tab-component {
+    background-color: #0B6998;
+    color: #fff;
+}
+
+.tab-link.w--current {
+    background-color: #0B6998;
+}
+
+.tab-link {
+
+    background-color: #3996D2;
+    color: #fff;
+}
+
+
+.navigation:hover {
+    background-color: #0B6998;
+    color: #fff;
+}
+
+.div-block-2 {
+  background-color: #0098ff;
+}
+
+.box-content {
+  
+    background-color: #0B6998;
+    color: #fff;
+}
+
+.title-content {
+    color: #0B6998;
+}
+
+.cropper {
+ 
+    background-color: #3996D2;
+}
+
+.more-info-box {
+    
+    border: 1px solid #3996D2;
+    background-color: #0B6998;
+    color: #fff;
+}

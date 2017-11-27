@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+
+.swiper-container {
+	width: 100vw;
+	height: 100vh;
+}
+.swiper-container-intro {
+	width: 100%;
+	height: 100%;
+}
+#first-intro {
+	overflow: hidden;
+}
+
+@media screen and (max-width: 768px) and (min-width: 240px) {
+.swiper-container-intro {
+	width: 450px;
+	height: 175px;
+}
+}
+
+@media screen and (max-width: 768px) and (min-width: 240px) {
+.player-button {
+	width: 48px;
+	height: 48px;
+}
+}
+.button.filled:hover {
+	background-color: #e87072;
+}
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
+	background: #d75174;
+}
+.card-expander {
+	border: 1px solid #e87072;
+	background-color: #d75174;
+}
+.swiper-button-prev {
+	display: none;
+}
+.swiper-button-next {
+	display: none;
+}
+.swiper-button-prev {
+	width: 32px;
+	margin-left: 0px;
+	position: absolute;
+	bottom: 0;
+	cursor: pointer;
+	height: 32px;
+}
+.swiper-button-next {
+	width: 32px;
+	position: absolute;
+	bottom: 0;
+	margin-right: 20px;
+	cursor: pointer;
+	height: 32px;
+}
