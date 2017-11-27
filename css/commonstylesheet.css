@@ -42,14 +42,14 @@
 }
 }
 .button.filled:hover {
-	background-color: #e87072;
+	background-color: #167ac6;
 }
 .swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
-	background: #d75174;
+	background: #005eaf;
 }
 .card-expander {
-	border: 1px solid #e87072;
-	background-color: #d75174;
+	border: 1px solid #167ac6;
+	background-color: #005eaf;
 }
 .swiper-button-prev {
 	display: none;
