@@ -41,12 +41,7 @@
 	height: 48px;
 }
 }
-.button.filled:hover {
-	background-color: #167ac6;
-}
-.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
-	background: #005eaf;
-}
+
 .card-expander {
 	border: 1px solid #167ac6;
 	background-color: #005eaf;

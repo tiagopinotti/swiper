@@ -3,12 +3,12 @@
 	background-color: #3e2666;
 }
 
-.button.filled:hover {
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
     background-color: #2E1B4E;
 }
 
-.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
-    background: #3e2666;
+.button.filled:hover {
+    background-color: #3e2666;
 }
 
 .player-button.master-timer-controller.close-options {
