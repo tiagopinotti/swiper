@@ -1,6 +1,7 @@
 // Palet Color
 $cor1 : #ad383a;
 $cor2 : #772224;
+$cor3 : #e37a3e;
 
 .button.filled {
 	
@@ -31,7 +32,7 @@ $cor2 : #772224;
 }
 
 .card-expander{
-    border: 1px solid #e37a3e;
+    border: 1px solid $cor3;
     background-color: #ad383a;
 }
 
