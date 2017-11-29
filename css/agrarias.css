@@ -1,105 +1,87 @@
 .button.filled {
-	
-	background-color: #507c58;
-}
+  background-color: #507c58; }
 
 .swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
-    background: #507c58;
-}
+  background: #507c58; }
 
 .button.filled:hover {
-	
-	background-color: #35563b;
-}
+  background-color: #ede594; }
 
-.card-expander{
-    border: 1px solid #324E37;
-    background-color: #507c58;
-}
+.player-button.master-timer-controller.close-options {
+  border-color: #fdac00;
+  background-color: #ede594; }
+
+.player-button.options {
+  border-color: #507c58;
+  background-color: #ede594; }
+
+.player-button.stop-button-round {
+  border-color: #507c58;
+  background-color: #ede594; }
+
+.card-expander {
+  border: 1px solid #6fb639;
+  background-color: #ede594; }
 
 .floating-card-span-c {
-	color: #507c58;
-}
+  color: #507c58; }
 
 .floating-card-span-d {
-    color: #507c58;
-}
+  color: #507c58; }
 
 .floating-card-span-a {
-    color: #507c58;
-}
+  color: #507c58; }
 
 .floating-card-span-e {
-    color: #507c58;
-}
+  color: #507c58; }
 
 .floating-card-span-b {
-    color: #507c58;
-}
+  color: #507c58; }
 
 .floating-card {
-	background-color: #507c58;
-}
+  background-color: #507c58; }
 
 .more-info-box {
-    border: 1px solid #ede594;
-    background-color: #507c58;
-  
-}
+  border: 1px solid #6fb639;
+  border-radius: 2px;
+  background-color: #507c58;
+  color: #fff; }
 
 .side-cover {
-
-  background-image: -webkit-radial-gradient(circle farthest-corner at 0% 0%, rgba(80,124,88,0.75), rgba(111,182,57,0.75));
-  background-image: radial-gradient(circle farthest-corner at 0% 0%, rgba(80,124,88,0.75), rgba(111,182,57,0.75));
-}
+  background-image: -webkit-radial-gradient(circle farthest-corner at 0% 0%, rgba(80, 124, 88, 0.75), rgba(111, 182, 57, 0.75));
+  background-image: radial-gradient(circle farthest-corner at 0% 0%, rgba(80, 124, 88, 0.75), rgba(111, 182, 57, 0.75)); }
 
 .tab-component {
-    background-color: #507c58;
-}
+  background-color: #ede594;
+  color: #fff; }
 
 .tab-link.w--current {
-    background-color: #507c58;
-}
+  background-color: #ede594; }
 
 .tab-link {
-    background-color: #6fb639;
-}
-
-.time-label {
-	
-	background-color: #6fb639;
-	
-}
-
-.time-marker {
-
-    background-color: #fdac00;
-}
+  background-color: #6fb639;
+  color: #fff; }
 
 .navigation:hover {
-    background-color: #507c58;
-
-}
+  background-color: #507c58;
+  color: #fff; }
 
 .div-block-2 {
-    background-color: #ede594;
-}
+  background-color: #6fb639; }
 
 .box-content {
-    background-color: #507c58;
-
-}
+  background-color: #507c58;
+  color: #fff; }
 
 .title-content {
-    color: #507c58;
-}
+  color: #507c58; }
 
 .cropper {
-    background-color: #6fb639;
-}
+  background-color: #fdac00; }
 
 .more-info-box {
-    border: 1px solid #ede594;
-    background-color: #507c58;
+  border: 1px solid #6fb639;
+  background-color: #507c58;
+  color: #fff; }
 
-}
+/*# sourceMappingURL=agrarias.css.map */

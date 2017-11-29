@@ -1,113 +1,87 @@
 .button.filled {
-	
-	background-color: #3e2666;
-}
+  background-color: #3e2666; }
 
 .swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
-    background-color: #2E1B4E;
-}
+  background: #3e2666; }
 
 .button.filled:hover {
-    background-color: #3e2666;
-}
+  background-color: #2E1B4E; }
 
 .player-button.master-timer-controller.close-options {
-    border-color: #005eaf;
-    background-color: #0366b1;
-}
+  border-color: #3e2666;
+  background-color: #2E1B4E; }
 
 .player-button.options {
-    border-color: #0267bd;
-    background-color: #167ac6;
-}
+  border-color: #3e2666;
+  background-color: #2E1B4E; }
 
 .player-button.stop-button-round {
-    border-color: #0267bd;
-    background-color: #167ac6;
-}
+  border-color: #3e2666;
+  background-color: #2E1B4E; }
 
-.card-expander{
-    border: 1px solid #3e2666;
-    background-color: #3e2666;
-}
+.card-expander {
+  border: 1px solid #7b6095;
+  background-color: #2E1B4E; }
 
 .floating-card-span-c {
-	color: #3e2666;
-}
+  color: #3e2666; }
 
 .floating-card-span-d {
-    color: #3e2666;
-}
+  color: #3e2666; }
 
 .floating-card-span-a {
-    color: #3e2666;
-}
+  color: #3e2666; }
 
 .floating-card-span-e {
-    color: #3e2666;
-}
+  color: #3e2666; }
 
 .floating-card-span-b {
-    color: #3e2666;
-}
+  color: #3e2666; }
 
 .floating-card {
-	background-color: #3e2666;
-}
-
+  background-color: #3e2666; }
 
 .more-info-box {
-    border: 1px solid #3e2666;
-    border-radius: 2px;
-    background-color: #3e2666;
-    color: #fff;
-}
+  border: 1px solid #7b6095;
+  border-radius: 2px;
+  background-color: #3e2666;
+  color: #fff; }
 
 .side-cover {
-
-  background-image: -webkit-radial-gradient(circle farthest-corner at 0% 0%, rgba(62,38,102,0.75), rgba(248,178,52,0.75));
-  background-image: radial-gradient(circle farthest-corner at 0% 0%, rgba(62,38,102,0.75), rgba(248,178,52,0.75));
-}
+  background-image: -webkit-radial-gradient(circle farthest-corner at 0% 0%, rgba(62, 38, 102, 0.75), rgba(248, 178, 52, 0.75));
+  background-image: radial-gradient(circle farthest-corner at 0% 0%, rgba(62, 38, 102, 0.75), rgba(248, 178, 52, 0.75)); }
 
 .tab-component {
-    background-color: #3e2666;
-    color: #fff;
-}
+  background-color: #2E1B4E;
+  color: #fff; }
 
 .tab-link.w--current {
-    background-color: #3e2666;
-}
+  background-color: #2E1B4E; }
 
 .tab-link {
-    background-color: #3e2666;
-    color: #fff;
-}
-
+  background-color: #7b6095;
+  color: #fff; }
 
 .navigation:hover {
-    background-color: #3e2666;
-    color: #fff;
-}
+  background-color: #3e2666;
+  color: #fff; }
 
 .div-block-2 {
-    background-color: #3e2666;
-}
+  background-color: #7b6095; }
 
 .box-content {
-    background-color: #3e2666;
-    color: #fff;
-}
+  background-color: #3e2666;
+  color: #fff; }
 
 .title-content {
-    color: #3e2666;
-}
+  color: #3e2666; }
 
 .cropper {
-    background-color: #7b6095;
-}
+  background-color: #3e2666; }
 
 .more-info-box {
-    border: 1px solid #3e2666;
-    background-color: #3e2666;
-    color: #fff;
-}
+  border: 1px solid #7b6095;
+  background-color: #3e2666;
+  color: #fff; }
+
+/*# sourceMappingURL=sociais.css.map */

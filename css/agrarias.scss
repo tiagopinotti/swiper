@@ -1,28 +1,14 @@
 // Palet Color
-$cor1 : #ad383a;
-$cor2 : #772224;
-$cor3 : #e37a3e;
-$cor4 : #7b6095;
+
+$cor1 : #507c58;
+$cor2 : #ede594;
+$cor3 : #6fb639;
+$cor4 : #fdac00;
 
 // Palet Background
 
-$cor5 : rgba(173,56,58,0.75);
-$cor6 : rgba(227,122,62,0.75);
-
-.player-button.master-timer-controller.close-options {
-    border-color: $cor1;
-    background-color: $cor2;
-}
-
-.player-button.options {
-    border-color: $cor1;
-    background-color: $cor2;
-}
-
-.player-button.stop-button-round {
-    border-color: $cor1;
-    background-color: $cor2;
-}
+$cor5 : rgba(80,124,88,0.75);
+$cor6 : rgba(111,182,57,0.75);
 
 .button.filled {
 	
@@ -34,6 +20,21 @@ $cor6 : rgba(227,122,62,0.75);
 }
 
 .button.filled:hover {
+    background-color: $cor2;
+}
+
+.player-button.master-timer-controller.close-options {
+    border-color: $cor4; 
+    background-color: $cor2;
+}
+
+.player-button.options {
+    border-color: $cor1;
+    background-color: $cor2;
+}
+
+.player-button.stop-button-round {
+    border-color: $cor1;
     background-color: $cor2;
 }
 
