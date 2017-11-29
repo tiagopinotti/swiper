@@ -1,0 +1,117 @@
+// Palet Color
+$cor1: #3e2666;
+$cor2: #2E1B4E;
+$cor3: #7b6095;
+$cor4: #3e2666;
+// Palet Background
+$cor5: rgba(62, 38, 102, 0.75);
+$cor6: rgba(248, 178, 52, 0.75);
+.button.filled {
+    background-color: $cor1;
+}
+
+.swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
+    background: $cor1;
+}
+
+.button.filled:hover {
+    background-color: $cor2;
+}
+
+.player-button.master-timer-controller.close-options {
+    border-color: $cor4;
+    background-color: $cor2;
+}
+
+.player-button.options {
+    border-color: $cor1;
+    background-color: $cor2;
+}
+
+.player-button.stop-button-round {
+    border-color: $cor1;
+    background-color: $cor2;
+}
+
+.card-expander {
+    border: 1px solid $cor3;
+    background-color: $cor2;
+}
+
+.floating-card-span-c {
+    color: $cor1;
+}
+
+.floating-card-span-d {
+    color: $cor1;
+}
+
+.floating-card-span-a {
+    color: $cor1;
+}
+
+.floating-card-span-e {
+    color: $cor1;
+}
+
+.floating-card-span-b {
+    color: $cor1;
+}
+
+.floating-card {
+    background-color: $cor1;
+}
+
+.more-info-box {
+    border: 1px solid $cor3;
+    border-radius: 2px;
+    background-color: $cor1;
+    color: #fff;
+}
+
+.side-cover {
+    background-image: -webkit-radial-gradient(circle farthest-corner at 0% 0%, $cor5, $cor6);
+    background-image: radial-gradient(circle farthest-corner at 0% 0%, $cor5, $cor6);
+}
+
+.tab-component {
+    background-color: $cor2;
+    color: #fff;
+}
+
+.tab-link.w--current {
+    background-color: $cor2;
+}
+
+.tab-link {
+    background-color: $cor3;
+    color: #fff;
+}
+
+.navigation:hover {
+    background-color: $cor1;
+    color: #fff;
+}
+
+.div-block-2 {
+    background-color: $cor3;
+}
+
+.box-content {
+    background-color: $cor1;
+    color: #fff;
+}
+
+.title-content {
+    color: $cor1;
+}
+
+.cropper {
+    background-color: $cor4;
+}
+
+.more-info-box {
+    border: 1px solid $cor3;
+    background-color: $cor1;
+    color: #fff;
+}
