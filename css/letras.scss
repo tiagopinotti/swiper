@@ -1,11 +1,11 @@
 // Palet Color
-$cor1: #0B6998;
-$cor2: #0B6998;
-$cor3: #005eaf;
-$cor4: #0366b1;
+$cor1: #d75174;
+$cor2: #e87072;
+$cor3: #e87072;
+$cor4: #e87072;
 // Palet Background
-$cor5: rgba(11, 105, 152, 0.9);
-$cor6: rgba(14, 59, 79, 0.9);
+$cor5: rgba(215, 81, 116, 0.75);
+$cor6: rgba(58, 43, 111, 0.75);
 .button.filled {
     background-color: $cor1;
 }
@@ -23,7 +23,7 @@ $cor6: rgba(14, 59, 79, 0.9);
     background-color: $cor2;
 }
 
-.player-button.options { 
+.player-button.options {
     border-color: $cor1;
     background-color: $cor2;
 }

@@ -1,21 +1,5 @@
 @charset "utf-8";
 /* CSS Document */
-
-.player-button.master-timer-controller.close-options {
-    border-color: #005eaf;
-    background-color: #0366b1;
-}
-
-.player-button.options {
-    border-color: #0267bd;
-    background-color: #167ac6;
-}
-
-.player-button.stop-button-round {
-    border-color: #0267bd;
-    background-color: #167ac6;
-}
-
 .swiper-container {
 	width: 100vw;
 	height: 100vh;
