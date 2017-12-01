@@ -5,12 +5,12 @@ ___
 
 ### CSS Themes ###
 
-* [Agrarias](https://bitbucket.org/tiagopinotti/ed/src/724b37d9a4722d0ee710287ab3c0d0fe1b6dfe94/css/agrarias.css?at=master&fileviewer=file-view-default)
-* [Biologicas](https://bitbucket.org/tiagopinotti/ed/src/724b37d9a4722d0ee710287ab3c0d0fe1b6dfe94/css/biologicas.css?at=master&fileviewer=file-view-default) 
-* [Exatas](https://bitbucket.org/tiagopinotti/ed/src/724b37d9a4722d0ee710287ab3c0d0fe1b6dfe94/css/exatas.css?at=master&fileviewer=file-view-default)
-* [Humanas](https://bitbucket.org/tiagopinotti/ed/src/724b37d9a4722d0ee710287ab3c0d0fe1b6dfe94/css/humanas.css?at=master&fileviewer=file-view-default)
-* [Letras](https://bitbucket.org/tiagopinotti/ed/src/724b37d9a4722d0ee710287ab3c0d0fe1b6dfe94/css/letras.css?at=master&fileviewer=file-view-default)
-* [Sociais](https://bitbucket.org/tiagopinotti/ed/src/724b37d9a4722d0ee710287ab3c0d0fe1b6dfe94/css/sociais.css?at=master&fileviewer=file-view-default)
+* [Agrarias](https://github.com/tiagopinotti/swiper/blob/master/css/agrarias.css)
+* [Biologicas](https://github.com/tiagopinotti/swiper/blob/master/css/biologicas.css) 
+* [Exatas](https://github.com/tiagopinotti/swiper/blob/master/css/exatas.css)
+* [Humanas](https://github.com/tiagopinotti/swiper/blob/master/css/humanas.css)
+* [Letras](https://github.com/tiagopinotti/swiper/blob/master/css/letras.css)
+* [Sociais](https://github.com/tiagopinotti/swiper/blob/master/css/sociais.css)
 
 ___
 
